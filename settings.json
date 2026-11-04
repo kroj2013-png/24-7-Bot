@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TheReall_Koen",
+    "username": "24_7BotT12",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "TheReallSMP.aternos.me",
-    "port": 42913,
+    "port": 36799,
     "version": "1.21.11"
   },
   "position": {
